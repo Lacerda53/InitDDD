@@ -1,0 +1,9 @@
+C:\Dev\AspNetCore\PaymentContext\PaymentContext.Shared\bin\Debug\netcoreapp3.1\PaymentContext.Shared.deps.json
+C:\Dev\AspNetCore\PaymentContext\PaymentContext.Shared\bin\Debug\netcoreapp3.1\PaymentContext.Shared.dll
+C:\Dev\AspNetCore\PaymentContext\PaymentContext.Shared\bin\Debug\netcoreapp3.1\PaymentContext.Shared.pdb
+C:\Dev\AspNetCore\PaymentContext\PaymentContext.Shared\obj\Debug\netcoreapp3.1\PaymentContext.Shared.csprojAssemblyReference.cache
+C:\Dev\AspNetCore\PaymentContext\PaymentContext.Shared\obj\Debug\netcoreapp3.1\PaymentContext.Shared.csproj.CoreCompileInputs.cache
+C:\Dev\AspNetCore\PaymentContext\PaymentContext.Shared\obj\Debug\netcoreapp3.1\PaymentContext.Shared.AssemblyInfoInputs.cache
+C:\Dev\AspNetCore\PaymentContext\PaymentContext.Shared\obj\Debug\netcoreapp3.1\PaymentContext.Shared.AssemblyInfo.cs
+C:\Dev\AspNetCore\PaymentContext\PaymentContext.Shared\obj\Debug\netcoreapp3.1\PaymentContext.Shared.dll
+C:\Dev\AspNetCore\PaymentContext\PaymentContext.Shared\obj\Debug\netcoreapp3.1\PaymentContext.Shared.pdb

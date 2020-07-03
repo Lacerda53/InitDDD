@@ -7,3 +7,10 @@ C:\Dev\AspNetCore\PaymentContext\PaymentContext.Shared\obj\Debug\netcoreapp3.1\P
 C:\Dev\AspNetCore\PaymentContext\PaymentContext.Shared\obj\Debug\netcoreapp3.1\PaymentContext.Shared.AssemblyInfo.cs
 C:\Dev\AspNetCore\PaymentContext\PaymentContext.Shared\obj\Debug\netcoreapp3.1\PaymentContext.Shared.dll
 C:\Dev\AspNetCore\PaymentContext\PaymentContext.Shared\obj\Debug\netcoreapp3.1\PaymentContext.Shared.pdb
+C:\Dev\ASPNETCORE\InitDDD\PaymentContext.Shared\bin\Debug\netcoreapp3.1\PaymentContext.Shared.deps.json
+C:\Dev\ASPNETCORE\InitDDD\PaymentContext.Shared\bin\Debug\netcoreapp3.1\PaymentContext.Shared.dll
+C:\Dev\ASPNETCORE\InitDDD\PaymentContext.Shared\bin\Debug\netcoreapp3.1\PaymentContext.Shared.pdb
+C:\Dev\ASPNETCORE\InitDDD\PaymentContext.Shared\obj\Debug\netcoreapp3.1\PaymentContext.Shared.AssemblyInfoInputs.cache
+C:\Dev\ASPNETCORE\InitDDD\PaymentContext.Shared\obj\Debug\netcoreapp3.1\PaymentContext.Shared.AssemblyInfo.cs
+C:\Dev\ASPNETCORE\InitDDD\PaymentContext.Shared\obj\Debug\netcoreapp3.1\PaymentContext.Shared.dll
+C:\Dev\ASPNETCORE\InitDDD\PaymentContext.Shared\obj\Debug\netcoreapp3.1\PaymentContext.Shared.pdb
